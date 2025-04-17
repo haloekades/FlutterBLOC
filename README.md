@@ -11,7 +11,3 @@ A simple Flutter app that displays a list of news articles using the BLoC state 
 - 📱 List view with clickable cards
 - 📄 Detail page for full article info
 - 🎯 Clean and maintainable architecture
-
-
-
-# FlutterBLOC
